@@ -1,6 +1,5 @@
 """
 Aplicación Streamlit para Detección de Fraude con SMOTE
-Curso: Business Predictive Analytics - UPC
 """
 
 import streamlit as st
@@ -780,7 +779,5 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
     <p><strong>Sistema de Detección de Fraude con SMOTE</strong></p>
-    <p>Business Predictive Analytics - Universidad Peruana de Ciencias Aplicadas (UPC)</p>
-    <p>Desarrollado con ❤️ usando Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
